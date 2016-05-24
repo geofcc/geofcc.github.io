@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Hank Quinlan, Horrible Cop, Launches Site"
+title: "Geofcc, the mysterious shirokuma, Launches Site"
 date: 2016-05-24
 ---
 
